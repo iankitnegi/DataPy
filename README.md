@@ -17,3 +17,6 @@ Welcome to DATAPy! This repo contains my Python learning from basic to data scie
 -     #Use of math module
       import math
       print(math.sqrt(25))
+
+-     #Use of format() funn
+      print("{0} is Prime number".format(n))
