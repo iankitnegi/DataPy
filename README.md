@@ -25,4 +25,31 @@ Welcome to DATAPy! This repo contains my Python learning from basic to data scie
       bin(), oct(), hex()
 
 -     #ASCII: Character -> ASCII number {funn}
-      ord() 
+      ord()
+
+-     # Data Collection
+      data = []
+      data.extend([10, 20, 30, 40, 50])
+
+      # Data Cleaning
+      if 30 in data:
+            data.remove(30)
+
+      # Data Transformation
+      data.sort()
+      data.reverse()
+
+      # Data Summarization
+      total = sum(data)
+      max_value = max(data)
+      min_value = min(data)
+
+      # Preparing for Visualization
+      indexed_data = list(enumerate(data))
+
+      print("Cleaned Data:", data)
+      print("Total:", total)
+      print("Max Value:", max_value)
+      print("Min Value:", min_value)
+      print("Indexed Data:", indexed_data)
+
