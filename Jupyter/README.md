@@ -37,5 +37,8 @@
 7. Iteration
    - For Loop
    - While Loop
-   - Create List with the range() funn  
+   - Create List with the range() funn
+   - Use conditional statement & loop together
+   - Iterating over Dictionaries
+8. 
 
