@@ -13,7 +13,7 @@
    - Line continuation
    - Indexing elements
    - Indentation
-3. Operators:
+3. Operators
    - Comparision
    - Logical & Identity
 4. Conditional Statement
@@ -40,5 +40,23 @@
    - Create List with the range() funn
    - Use conditional statement & loop together
    - Iterating over Dictionaries
-8. 
+8. Exercise: Soln
+9. Mathematics for Python
+   - Declaring scalars, vectors & matrix
+   - Creating tensor
+   - Add & Sub
+   - Transpose
+   - Dot Product of vectors
+   - Dot Product of Matrices
+10. Numpy Basics
+    - Ndarray
+  
+
+
+
+
+
+
+
+
 
