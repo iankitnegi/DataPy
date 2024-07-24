@@ -40,16 +40,21 @@
    - Create List with the range() funn
    - Use conditional statement & loop together
    - Iterating over Dictionaries
-8. Exercise: Soln
-9. Mathematics for Python
-   - Declaring scalars, vectors & matrix
-   - Creating tensor
-   - Add & Sub
-   - Transpose
-   - Dot Product of vectors
-   - Dot Product of Matrices
-10. Numpy Basics
-    - Ndarray
+8. Exercise for Ch 1-7
+   - Soln
+10. Mathematics for Python
+    - Declaring scalars, vectors & matrix
+    - Creating tensor
+    - Add & Sub
+    - Transpose
+    - Dot Product of vectors
+    - Dot Product of Matrices
+11. Numpy Basics
+     - Ndarray
+     - Excercise Soln
+12. Pandas Basics
+     - pandas Series
+     - 
   
 
 
