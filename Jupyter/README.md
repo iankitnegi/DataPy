@@ -51,7 +51,7 @@
     - Dot Product of Matrices
 11. Numpy 
      - Ndarray
-     - Excercise Soln
+     - Excercise #Soln
 12. Pandas
      - Introduction to pandas Series
      - Working with Attributes in Python
@@ -64,6 +64,7 @@
      - pandas documentation
      - Introduction to pandas DataFrames
      - Creating DataFrames - I, II, III, IV, V, VI
+     - Excercise #Soln
   
 
 
