@@ -40,8 +40,8 @@
    - Create List with the range() funn
    - Use conditional statement & loop together
    - Iterating over Dictionaries
-8. Exercise for Ch 1-7
-   - Soln
+8. Exercise from Ch 1-7
+   - Soln #Basics
 10. Mathematics for Python
     - Declaring scalars, vectors & matrix
     - Creating tensor
@@ -49,12 +49,21 @@
     - Transpose
     - Dot Product of vectors
     - Dot Product of Matrices
-11. Numpy Basics
+11. Numpy 
      - Ndarray
      - Excercise Soln
-12. Pandas Basics
-     - pandas Series
-     - 
+12. Pandas
+     - Introduction to pandas Series
+     - Working with Attributes in Python
+     - Using an Index in pandas
+     - Label-based vs Position-based Indexing
+     - More on Working with Indices in Python
+     - Using Methods in Python - I
+     - Using Methods in Python - II
+     - Parameter Vs Arguments
+     - pandas documentation
+     - Introduction to pandas DataFrames
+     - Creating DataFrames - I, II, III, IV, V, VI
   
 
 
