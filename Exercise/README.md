@@ -1,4 +1,4 @@
-# Table of Contents: 
+# Basics: 
 1. Variables
 2. Numbers
 3. String
@@ -12,3 +12,10 @@
 11. Classes & Objects
 12. Inheritance
 13. Exception Handling
+
+# Pandas:  
+1. DataFrame
+2. Read, Write Excel & CSV Files
+3. Handling NA values
+4. Groupby
+5. Concat & Merge
