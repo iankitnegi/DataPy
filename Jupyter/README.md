@@ -65,6 +65,13 @@
      - Introduction to pandas DataFrames
      - Creating DataFrames - I, II, III, IV, V, VI
      - Excercise #Soln
+13. Working with text file
+     - Importing Text Files in Python: open()
+     - Importing Text Files in Python (with open())
+     - Importing *.csv Files with pandas - Part I & II
+     - Importing *.csv Files with pandas - Part III
+     - Importing Data with the index_col Parameter
+     - 
   
 
 
